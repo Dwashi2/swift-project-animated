@@ -38,13 +38,13 @@
  
 
 
-It's a simple app, only to layout
+It's a simple app, only to study animation
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file projectLoginLayout.xcodeproj 
+Open the file animated.xcodeproj 
 
 ### Prerequisites
 
